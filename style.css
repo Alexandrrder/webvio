@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+.mainContainer {
+    height: 100vh;
+    background-image: url(./assets/images/Bitmap.png);
+
+}
+
+.container {
+
+    margin: 0px auto;
+    max-width: 1111px;
+}
+
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: transparent;
+
+}
+
+.navigo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-image {
+    width: 100%;
+    height: 811px;
+}
+
+.main-section .wrapper {
+    padding-top: 188px;
+}
+
+.text-wrapper {
+
+}
+
+.aplacewhere {
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.main-h1 {
+    font-size: 60px;
+    font-weight: bold;
+    width: 616px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.main-p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+    padding-bottom: 45px;
+}
+
+.get-in-touch {
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFD723;
+    text-decoration: underline;
+}
+.company {
+    display: flex;
+    width: 1276px;
+    height: 227px;
+    background-color: #fff;
+    position: absolute;
+    top: 698px;
+    left: 162px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    justify-content: space-between;
+    align-items: center;
+
+}
